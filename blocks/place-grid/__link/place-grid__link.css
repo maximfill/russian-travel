@@ -1,0 +1,19 @@
+.place-grid__link {
+    color: #fff;
+
+    font-size: 18px;
+    line-height: 22px;
+    margin: 0;
+    text-decoration: none;
+    border-bottom: 1px solid #fff;
+}
+
+.place-grid__link:hover {
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 740px) {
+    .place-grid__link {
+        display: none;
+    }
+}
