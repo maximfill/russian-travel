@@ -1,8 +1,4 @@
 .place-grid__image {
-    width: 460px;
-}
-
-.place-grid__image {
     max-width: 460px;
 }
 
