@@ -11,9 +11,3 @@
 .place-grid__link:hover {
   opacity: 0.8;
 }
-
-@media screen and (max-width: 740px) {
-  .place-grid__link {
-    display: none;
-  }
-}

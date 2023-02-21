@@ -4,3 +4,9 @@
   align-items: flex-start;
   justify-content: flex-end;
 }
+
+@media screen and (max-width: 767px) {
+  .place-grid__wrapper-website {
+    padding: 0 0 32px 16px;
+  }
+}

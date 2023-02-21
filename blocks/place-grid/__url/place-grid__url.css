@@ -11,9 +11,3 @@
     line-height: 1.0;
   }
 }
-
-@media screen and (max-width: 740px) {
-  .place-grid__url {
-    display: none;
-  }  
-}
