@@ -11,3 +11,9 @@
     flex-direction: column;
   }
 }
+
+@media screen and (max-width: 476px) {
+  .footer__links-list {
+    margin-bottom: 16px;
+  }
+}
