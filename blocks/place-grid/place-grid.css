@@ -1,17 +1,17 @@
 .place-grid{
-    max-width: 984px;
-    margin: 0 auto;
-    padding: 0 48px;
+  max-width: 984px;
+  margin: 0 auto;
+  padding: 0 48px;
 }
 
 @media screen and (max-width: 956px) {
-    .place-grid {
-        padding: 0 24px;
-    }
+  .place-grid {
+    padding: 0 24px;
+  }
 }
 
 @media screen and (max-width: 740px) {
-    .place-grid {
-        padding: 0;
-    }
+  .place-grid {
+    padding: 0;
+  }
 }

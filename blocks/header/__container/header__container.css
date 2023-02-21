@@ -1,11 +1,11 @@
 .header__container {
-    display: flex;
-    align-items: flex-end;
-    column-gap: 18px;
+  display: flex;
+  align-items: flex-end;
+  column-gap: 18px;
 }
 
 @media screen and (max-width: 576px) {
-    .header__container {
-        align-items: center;
-    }
+  .header__container {
+    align-items: center;
+  }
 }
