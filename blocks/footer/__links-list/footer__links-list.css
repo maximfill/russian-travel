@@ -6,7 +6,7 @@
   list-style: none;
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 767px) {
   .footer__links-list {
     flex-direction: column;
   }

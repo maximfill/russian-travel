@@ -24,9 +24,10 @@
 
 @media screen and (max-width: 576px) {
   .cover__subtitle {
+    padding-bottom:44px;
     font-size: 14px;
     margin: 16px 0 0;
-    line-height: 22px;
-    max-width: 288px;
+    line-height: 1.14;
+    max-width: 260px;
   }
 }

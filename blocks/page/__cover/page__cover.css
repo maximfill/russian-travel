@@ -1,0 +1,5 @@
+@media screen and (max-width: 576px) {
+  .page__cover {
+    margin: 50px 0 0;
+  }
+}

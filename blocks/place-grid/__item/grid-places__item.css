@@ -18,14 +18,14 @@
   }
 
   .place-grid__item:first-child {
-    margin-top: 102px;
+    margin-top: 94px;
   }
 }
 
 @media screen and (max-width: 956px) {
   .place-grid__item {
     grid-template-columns: 340px 1fr;
-    margin-top: 76px;
+    margin-top: 72px;
     grid-column-gap: 28px;
   }
 
@@ -48,7 +48,7 @@
 
 @media screen and (max-width: 576px) {
   .place-grid__item {
-    margin-top: 48px;
+    margin-top: 51px;
   }
 
   .place-grid__item:first-child {
