@@ -7,9 +7,6 @@
   justify-content: center;
 
   max-width: 100%;
-  min-height: 740px;
-
-
   color: #fff;
   padding-top: 92px;
 }
@@ -17,40 +14,14 @@
 
 
 
-@media screen and (max-width: 1152px) {
-  .cover {
-    min-height: 690px;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  .cover {
-    min-height: 640px;
-  }
-}
-
-@media screen and (max-width: 896px) {
-  .cover {
-    min-height: 560px;
-  }
-}
-
 @media screen and (max-width: 768px) {
   .cover {
-    padding-top: 80px;
-    min-height: 500px;
+    padding-top: 48px;
   }
 }
 
 @media screen and (max-width: 576px) {
   .cover {
     padding-top: 0;
-    min-height: 340px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .cover {
-    min-height: 200px;
   }
 }
