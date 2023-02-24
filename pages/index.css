@@ -36,7 +36,7 @@
 @import url(../blocks/place-grid/__url/place-grid__url.css);
 @import url(../blocks/place-grid/__wrapper-website/place-grid__wrapper-website.css);
 @import url(../blocks/place-grid/__website/place-grid__website.css);
-@import url(../blocks/place-grid/__item/grid-places__item.css);
+@import url(../blocks/place-grid/__item/place-grid__item.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
